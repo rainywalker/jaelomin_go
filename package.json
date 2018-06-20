@@ -1,0 +1,8 @@
+{
+  "name": "jaelomin_go",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rainywalker/jaelomin_go.git",
+  "author": "jaelomin <rainywalker@gmail.com>",
+  "license": "MIT"
+}
